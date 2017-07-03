@@ -1,0 +1,101 @@
+* {
+box sizing: border-box;
+font-family: Sans-serif;
+  }
+
+
+
+header {
+background-color: #06D6A0;
+padding: 20px;
+display: block;
+height: 80px;
+font-size: 18px;
+color: white;
+}
+
+h1 {
+  float: left
+}
+.nav_bar {
+  float: right;
+  padding: 0;
+}
+
+.nav_bar a {
+display: inline-block;
+margin-right: 10px;
+line-height: 60px;
+margin-bottom: 5px;
+}
+
+
+
+#welcome {
+overflow: hidden;
+background-color: #26547C;
+color: white;
+width: 100%
+
+}
+
+
+#cats {
+padding: 30px 20px;
+background-color: #FFD166; #yellow
+text-decoration: none;
+}
+
+
+#products {
+background-color: #F2F2F2; #lightgrey
+padding: 30px 20px;
+display: block;
+text-decoration: none;
+}
+
+
+
+#value_meow_fun_para{
+background-color: #26547C
+color: white;
+height: 150px;}
+
+body {
+margin-left: 100px;
+margin-right: 100px;
+}
+
+#cats {
+display: inline-block;
+padding-bottom: 5px;
+border-bottom: 5px solid #EF476F;
+text-decoration: none;
+
+}
+
+.value_meow_fun {
+  float: left;
+  width: 30%;
+  text-transform: uppercase;
+  text-align: center;
+  color: #EF476F;
+
+}
+
+.value_meow_fun_para {
+margin: auto;
+max-width: 900px;
+padding-top: 30px;
+}
+
+footer {
+background-color: #06D6A0;
+height: 50px;
+line-height: 50px;
+text-align: right;
+padding: 0 20px;
+text decoration: none;
+}
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
